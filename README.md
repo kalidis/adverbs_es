@@ -1,4 +1,4 @@
-# adverbs_es
+# Adverbs in Spanish
 This repository is a smal corpus of a list of adverbs classified in seven xlsx.
 
 In Spanish the adverbs can be classified in seven differents groups:
